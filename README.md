@@ -24,8 +24,24 @@
     <h3>Best Deals & All Products</h3>
     <img src="img/egy.png" alt="" srcset="">    
     <p align="justify">Right after the hero section, the featured listings follow, immediately capturing the user's attention. The clean, minimalistic cards help users quickly get familiar with the layout, showing only the most important information. With the help of the button, users are directed to the detailed listing page for more information.</p>
-    <h2>User Feedback</h2>  
-    <img src="img/git6.JPG" alt="" srcset="">    
+    <h2>Browsing Products</h2>  
+    <h3>Smartphones</h3>
+    <img src="img/10.JPG" alt="" srcset="">    
+    <p align="justify">Following that, users can view reviews and feedback left by previous clients, which include star ratings and written comments. Each review also displays a name and location, helping to build trust and credibility with potential users.</p>
+    <h3>Tablets</h3>
+    <img src="img/11.JPG" alt="" srcset="">    
+    <p align="justify">Following that, users can view reviews and feedback left by previous clients, which include star ratings and written comments. Each review also displays a name and location, helping to build trust and credibility with potential users.</p>
+    <h3>Smart TVs</h3>
+    <img src="img/12.JPG" alt="" srcset="">    
+    <p align="justify">Following that, users can view reviews and feedback left by previous clients, which include star ratings and written comments. Each review also displays a name and location, helping to build trust and credibility with potential users.</p>
+    <h3>Laptops</h3>
+    <img src="img/13.JPG" alt="" srcset="">    
+    <p align="justify">Following that, users can view reviews and feedback left by previous clients, which include star ratings and written comments. Each review also displays a name and location, helping to build trust and credibility with potential users.</p>
+    <h3>Discounts</h3>
+    <img src="img/8.JPG" alt="" srcset="">    
+    <p align="justify">Following that, users can view reviews and feedback left by previous clients, which include star ratings and written comments. Each review also displays a name and location, helping to build trust and credibility with potential users.</p>
+    <h3>Product Sections</h3>
+    <img src="img/harom.png" alt="" srcset="">    
     <p align="justify">Following that, users can view reviews and feedback left by previous clients, which include star ratings and written comments. Each review also displays a name and location, helping to build trust and credibility with potential users.</p>
     <h2>City Based Filter</h2>
     <img src="img/git7.JPG" alt="" srcset="">
