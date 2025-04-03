@@ -1,5 +1,5 @@
 <body> 
-    <h1>💻 Electronics E-Commerce Website  </h1>  
+    <h1 align="left">💻 Electronics E-Commerce Website  </h1>  
     <img src="img/1.JPG" alt="img_homepage"> 
     <p align="justify">This project, named 'Electrova', is an electronics-focused webshop developed using WordPress. Users can browse and purchase a variety of electronic devices, including smartphones, smart TVs, tablets, and laptops. The website features highlighted discounts and showcases imported products in a clean, visually appealing format, presenting only the most essential information. Simple animations enhance the overall user experience. The individual product pages are also well-structured and visually refined, offering image galleries, option and quantity selectors, as well as detailed descriptions.</p>
     <h2>Features</h2>
@@ -59,8 +59,8 @@
     <p align="justify">The webshop features a fully responsive design, ensuring a smooth and user-friendly experience on mobile devices. Product category pages are neatly stacked for vertical scrolling, with clear labels like ON SALE or BEST SELLER remaining visible even on smaller screens. Filters and sorting options are accessible via dropdown menus for ease of use.</p>
     <p align="justify">The shopping bag can be opened as a sidebar, optimized for touch interaction, showing products, quantities, prices, and a sticky Checkout button at the bottom.</p>
     <p align="justify">Individual product pages are also mobile-optimized, with swipeable image carousels, dropdowns for selecting variations (e.g. memory size), and intuitive quantity selectors. The Buy button remains prominent and easy to tap, improving the shopping experience on the go.</p>
-
-    
+    <h2>Preview Website</h2>
+    <a href="http://https://elektrova-avl7dvvvqqsj319g.builder-preview.com/" target="_blank">Open</a>
   
     
     
