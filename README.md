@@ -4,19 +4,19 @@
     <p align="justify">This project, named 'Electrova', is an electronics-focused webshop developed using WordPress. Users can browse and purchase a variety of electronic devices, including smartphones, smart TVs, tablets, and laptops. The website features highlighted discounts and showcases imported products in a clean, visually appealing format, presenting only the most essential information. Simple animations enhance the overall user experience. The individual product pages are also well-structured and visually refined, offering image galleries, option and quantity selectors, as well as detailed descriptions.</p>
     <h2>Features</h2>
     <ul>
-        <li>Modern, clean design</li>
-        <li>Featured listings</li>
-        <li>User reviews and ratings</li>
-        <li>City-based search</li>
-        <li>Frequently Asked Questions (FAQ)</li>
-        <li>Newsletter subscription</li>
-        <li>Grid layout</li>
-        <li>Animated gallery for image transitions</li>
-        <li>Google Maps integration</li>
-        <li>Responsive design for all devices</li>
-      </ul>   
+      <li>Responsive and mobile-friendly design</li>
+      <li>Product filtering and sorting</li>
+      <li>Detailed product pages with specs</li>
+      <li>Image gallery and variation selector</li>
+      <li>Interactive shopping cart sidebar</li>
+      <li>Live discount countdown timer</li>
+      <li>Highlight tags (e.g. Sale, New)</li>
+      <li>Similar and discounted product sections</li>
+      <li>Quick category navigation</li>
+      <li>Clean UI with flexbox/grid layout</li>
+    </ul>       
     <h2>Tech Stack</h2>  
-    <p>Front-End: HTML, CSS, JavaScript</p>   
+    <p>Platform: WordPress</p>   
     <h2>Landing Page Sections</h2> 
     <h3>Welcome, Hub, Why Choose Us & Footer </h3>
     <img src="img/ketto.png" alt="" srcset="">    
