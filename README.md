@@ -56,8 +56,10 @@
     <p align="justify">At the bottom, the subtotal is dynamically updated, and a prominent Checkout button allows the user to proceed with a secure purchase. This cart design ensures a smooth and efficient shopping experience without navigating away from the product page.</p> 
     <h2>Responsive Design</h2>
     <img src="img/negy.png" alt="" srcset=""> 
-    <p align="justify">At the bottom of the page, in the footer section, users can find a newsletter subscription option. By entering their email address, they will receive updates about the real estate market — including new listings, removed or sold properties, and the appearance of newly added cities.</p>
-    
+    <p align="justify">The webshop features a fully responsive design, ensuring a smooth and user-friendly experience on mobile devices. Product category pages are neatly stacked for vertical scrolling, with clear labels like ON SALE or BEST SELLER remaining visible even on smaller screens. Filters and sorting options are accessible via dropdown menus for ease of use.</p>
+    <p align="justify">The shopping bag can be opened as a sidebar, optimized for touch interaction, showing products, quantities, prices, and a sticky Checkout button at the bottom.</p>
+    <p align="justify">Individual product pages are also mobile-optimized, with swipeable image carousels, dropdowns for selecting variations (e.g. memory size), and intuitive quantity selectors. The Buy button remains prominent and easy to tap, improving the shopping experience on the go.</p>
+
     
   
     
