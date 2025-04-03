@@ -60,7 +60,7 @@
     <p align="justify">The shopping bag can be opened as a sidebar, optimized for touch interaction, showing products, quantities, prices, and a sticky Checkout button at the bottom.</p>
     <p align="justify">Individual product pages are also mobile-optimized, with swipeable image carousels, dropdowns for selecting variations (e.g. memory size), and intuitive quantity selectors. The Buy button remains prominent and easy to tap, improving the shopping experience on the go.</p>
     <h2>Preview Website</h2>
-    <a href="elektrova-avl7dvvvqqsj319g.builder-preview.com" target="_blank">Open</a>
+    <a href="https://elektrova-avl7dvvvqqsj319g.builder-preview.com" target="_blank">Open</a>
   
     
     
