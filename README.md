@@ -20,7 +20,10 @@
     <h2>Landing Page Sections</h2> 
     <h3>Welcome, Hub, Why Choose Us & Footer </h3>
     <img src="img/ketto.png" alt="" srcset="">    
-    <p align="justify">Right after the hero section, the featured listings follow, immediately capturing the user's attention. The clean, minimalistic cards help users quickly get familiar with the layout, showing only the most important information. With the help of the button, users are directed to the detailed listing page for more information.</p>
+    <p align="justify">🏠 Welcome Section <br>The homepage greets users with a welcoming message and a clean, modern design. It highlights the brand "Elektrova – Your Tech Haven" and introduces the store's wide selection of electronic devices. A prominent "Discounts" button encourages users to explore current deals.</p>
+    <p align="justify">🔎 Electronics Hub<br>This section provides quick access to the main product categories such as Smartphones, Tablets, and Laptops, displayed in a neat flexbox layout with accompanying images. Each category includes a short description and a clear call-to-action button like "Browse", "Shop", or "Explore".</p>
+    <p align="justify">💡 Why Choose Us? <br>This part emphasizes the store’s key benefits: Secure Checkout / Free Shipping / 2-Year Warranty / Expert Support. Below the icons, there are customer testimonials with 5-star ratings, enhancing credibility and trust in the service.</p>
+    <p align="justify">📍 Footer Section <br>The footer includes the store’s physical address, contact details, and a Google Maps embed showing the store location. It also displays a copyright notice.</p>
     <h3>Best Deals & All Products</h3>
     <img src="img/egy.png" alt="" srcset="">    
     <p align="justify">Right after the hero section, the featured listings follow, immediately capturing the user's attention. The clean, minimalistic cards help users quickly get familiar with the layout, showing only the most important information. With the help of the button, users are directed to the detailed listing page for more information.</p>
