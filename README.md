@@ -59,8 +59,7 @@
     <p align="justify">The webshop features a fully responsive design, ensuring a smooth and user-friendly experience on mobile devices. Product category pages are neatly stacked for vertical scrolling, with clear labels like ON SALE or BEST SELLER remaining visible even on smaller screens. Filters and sorting options are accessible via dropdown menus for ease of use.</p>
     <p align="justify">The shopping bag can be opened as a sidebar, optimized for touch interaction, showing products, quantities, prices, and a sticky Checkout button at the bottom.</p>
     <p align="justify">Individual product pages are also mobile-optimized, with swipeable image carousels, dropdowns for selecting variations (e.g. memory size), and intuitive quantity selectors. The Buy button remains prominent and easy to tap, improving the shopping experience on the go.</p>
-    <h2>Preview Website</h2>
-    <a href="https://elektrova-avl7dvvvqqsj319g.builder-preview.com" target="_blank">Open</a>
+    
   
     
     
